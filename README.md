@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Montassar Ben Mesmia
 
-<!--
-**MontassarBenMesmia/MontassarBenMesmia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer based in Tunis, Tunisia, focused on building reliable backend systems, database automation, cloud infrastructure, and maintainable full-stack applications.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** Java, Spring Boot, Node.js, Express, REST APIs
+- **Frontend:** Angular, TypeScript, JavaScript
+- **Data:** SQL Server, MySQL, MongoDB, PL/SQL, Power BI
+- **Cloud & DevOps:** Azure, Docker, GitHub Actions, Ansible, Linux
+- **Engineering:** Microservices, system design, database transactions, integration testing
+
+## Current focus
+
+- Designing dependable backend and database systems
+- Automating development, testing, and deployment workflows
+- Building production-quality projects with clear documentation and tests
+
+## Background
+
+- Engineering Degree in Software Engineering — ESPRIT
+- Bachelor's Degree in Network and Systems Engineering — ISI
+- Professional experience through software engineering, cloud, data, and database development internships
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/montassar-ben-mesmia/)
