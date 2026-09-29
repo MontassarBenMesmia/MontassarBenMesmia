@@ -7,7 +7,8 @@ Software Engineer based in Tunis, Tunisia, focused on building reliable backend 
 - **Backend:** Java, Spring Boot, Node.js, Express, FastAPI, REST APIs
 - **Frontend:** Angular, TypeScript, JavaScript
 - **Data & AI:** SQL Server, PostgreSQL, MongoDB, ClickHouse, Azure Databricks, scikit-learn, MediaPipe
-- **Cloud & DevOps:** AWS, Azure, Terraform, Docker, GitHub Actions, Ansible, Linux
+- **Cloud & DevOps:** AWS, Azure, Terraform, Docker, Kubernetes, Kustomize, GitHub Actions, Ansible, Linux
+- **Observability:** Prometheus, Grafana, application metrics, health checks
 - **Engineering:** Microservices, system design, database migrations, transaction safety, integration testing
 
 ## Current focus
